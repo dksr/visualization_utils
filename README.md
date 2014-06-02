@@ -13,7 +13,7 @@ Visualize the confusion matrix in Python.
   Input: Confusion matrix and the class list in the 
   same order as used in confusion matrix. To get the confusion matrix 
   elements in the same order as in class_list use this list to generate 
-  the confusion matrix in scipy.
+  the confusion matrix in scikit-learn package.
     
   example usage:
   ```python
