@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""visualize_cm.py: Visualizing confusion matrix ."""
+"""machine_learning_vis_utils.py: Visualizing utils for machine learning."""
 
 __author__      = "Krishna Dubba"
 
