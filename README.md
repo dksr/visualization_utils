@@ -24,3 +24,5 @@ Visualize the confusion matrix in Python.
   ```
   
 ![Screenshot](/images/cm.png)
+
+You can easily change the color of the confusion matrix. I used 'pyplot.cm.bone'. If you want to look at other options see here: http://www.physics.ox.ac.uk/Users/msshin/science/code/matplotlib_cm/
